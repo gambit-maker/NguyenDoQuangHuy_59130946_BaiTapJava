@@ -22,7 +22,7 @@ public class BaiTap1Main {
         System.out.println(nv1.getThongTin());
         System.out.println("Nhan vien 2");
         System.out.println(nv2.getThongTin());
-        System.out.println("Hello World");
+        System.out.println("Hello World Testing");
     }
     
 }
