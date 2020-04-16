@@ -16,6 +16,10 @@ public class BaiTap3Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        // theo de bai thi SinhVienPoly thuoc lop truu tuong, ma lop truu tuong
+        // thi khong the khoi tao duoc
+                        
         SinhVienIt it = new SinhVienIt("Nguyen Van A","Cong Nghe Thong Tin",9.5,9.5,9.6);
         it.xuat();
         System.out.println("Diem "+it.getDiem());
